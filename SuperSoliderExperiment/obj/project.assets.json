@@ -1,0 +1,128 @@
+{
+  "version": 4,
+  "targets": {
+    "net6.0": {
+      "Btd6ModHelper.MSBuildTasks/1.0.0": {
+        "type": "package",
+        "build": {
+          "buildTransitive/Btd6ModHelper.MSBuildTasks.targets": {}
+        }
+      },
+      "Btd6ModHelper.SourceGenerators/1.1.1": {
+        "type": "package"
+      }
+    }
+  },
+  "libraries": {
+    "Btd6ModHelper.MSBuildTasks/1.0.0": {
+      "sha512": "IhIkgEPPBaw9mJoSOP3pq3saaKhz609q7WrywMupXqbsLt5YU2pfF01Ah4fs5SDkaMMAbneXYc7M6YQTGFO5Zw==",
+      "type": "package",
+      "path": "btd6modhelper.msbuildtasks/1.0.0",
+      "files": [
+        ".nupkg.metadata",
+        ".signature.p7s",
+        "README.md",
+        "btd6modhelper.msbuildtasks.1.0.0.nupkg.sha512",
+        "btd6modhelper.msbuildtasks.nuspec",
+        "buildTransitive/Btd6ModHelper.MSBuildTasks.targets",
+        "tasks/netstandard2.0/MSBuildTasks.dll"
+      ]
+    },
+    "Btd6ModHelper.SourceGenerators/1.1.1": {
+      "sha512": "pCJV/Af/KMnpDMCgy75NTacNB13Vma6nKq+Wvk1bS1tY/QuyxKUQH4ISH5GkcASf9ejqdDH8g5WjOrcqq939AQ==",
+      "type": "package",
+      "path": "btd6modhelper.sourcegenerators/1.1.1",
+      "files": [
+        ".nupkg.metadata",
+        ".signature.p7s",
+        "README.md",
+        "btd6modhelper.sourcegenerators.1.1.1.nupkg.sha512",
+        "btd6modhelper.sourcegenerators.nuspec"
+      ]
+    }
+  },
+  "projectFileDependencyGroups": {
+    "net6.0": [
+      "Btd6ModHelper.MSBuildTasks >= 1.0.0",
+      "Btd6ModHelper.SourceGenerators >= 1.1.1"
+    ]
+  },
+  "packageFolders": {
+    "C:\\Users\\Planning\\.nuget\\packages\\": {}
+  },
+  "project": {
+    "version": "1.0.0",
+    "restore": {
+      "projectUniqueName": "C:\\Users\\Planning\\Documents\\BTD6 Mod Sources\\SuperSoliderExperiment\\Experiment.csproj",
+      "projectName": "SuperSoliderExperiment",
+      "projectPath": "C:\\Users\\Planning\\Documents\\BTD6 Mod Sources\\SuperSoliderExperiment\\Experiment.csproj",
+      "packagesPath": "C:\\Users\\Planning\\.nuget\\packages\\",
+      "outputPath": "C:\\Users\\Planning\\Documents\\BTD6 Mod Sources\\SuperSoliderExperiment\\obj\\",
+      "projectStyle": "PackageReference",
+      "configFilePaths": [
+        "C:\\Users\\Planning\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+      ],
+      "originalTargetFrameworks": [
+        "net6.0"
+      ],
+      "sources": {
+        "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+        "https://api.nuget.org/v3/index.json": {}
+      },
+      "frameworks": {
+        "net6.0": {
+          "framework": "net6.0",
+          "targetAlias": "net6.0",
+          "projectReferences": {}
+        }
+      },
+      "warningProperties": {
+        "warnAsError": [
+          "NU1605"
+        ]
+      },
+      "restoreAuditProperties": {
+        "enableAudit": "true",
+        "auditLevel": "low",
+        "auditMode": "direct"
+      },
+      "SdkAnalysisLevel": "10.0.400"
+    },
+    "frameworks": {
+      "net6.0": {
+        "framework": "net6.0",
+        "targetAlias": "net6.0",
+        "dependencies": {
+          "Btd6ModHelper.MSBuildTasks": {
+            "suppressParent": "All",
+            "target": "Package",
+            "version": "[1.0.0, )"
+          },
+          "Btd6ModHelper.SourceGenerators": {
+            "suppressParent": "All",
+            "target": "Package",
+            "version": "[1.1.1, )"
+          }
+        },
+        "imports": [
+          "net461",
+          "net462",
+          "net47",
+          "net471",
+          "net472",
+          "net48",
+          "net481"
+        ],
+        "assetTargetFallback": true,
+        "warn": true,
+        "frameworkReferences": {
+          "Microsoft.NETCore.App": {
+            "privateAssets": "all"
+          }
+        },
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\10.0.400\\RuntimeIdentifierGraph.json"
+      }
+    }
+  }
+}

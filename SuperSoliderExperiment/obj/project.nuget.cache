@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "wzxzKBWxbMA=",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Planning\\Documents\\BTD6 Mod Sources\\SuperSoliderExperiment\\Experiment.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Planning\\.nuget\\packages\\btd6modhelper.msbuildtasks\\1.0.0\\btd6modhelper.msbuildtasks.1.0.0.nupkg.sha512",
+    "C:\\Users\\Planning\\.nuget\\packages\\btd6modhelper.sourcegenerators\\1.1.1\\btd6modhelper.sourcegenerators.1.1.1.nupkg.sha512"
+  ],
+  "logs": []
+}
