@@ -1,0 +1,10 @@
+C:\Users\Planning\Documents\BTD6 Mod Sources\SuperSoliderExperiment\bin\Debug\SuperSoliderExperiment.deps.json
+C:\Users\Planning\Documents\BTD6 Mod Sources\SuperSoliderExperiment\bin\Debug\SuperSoliderExperiment.dll
+C:\Users\Planning\Documents\BTD6 Mod Sources\SuperSoliderExperiment\obj\Debug\SuperSoliderExperiment.csproj.AssemblyReference.cache
+C:\Users\Planning\Documents\BTD6 Mod Sources\SuperSoliderExperiment\obj\Debug\SuperSoliderExperiment.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Planning\Documents\BTD6 Mod Sources\SuperSoliderExperiment\obj\Debug\SuperSoliderExperiment.AssemblyInfoInputs.cache
+C:\Users\Planning\Documents\BTD6 Mod Sources\SuperSoliderExperiment\obj\Debug\SuperSoliderExperiment.AssemblyInfo.cs
+C:\Users\Planning\Documents\BTD6 Mod Sources\SuperSoliderExperiment\obj\Debug\SuperSoliderExperiment.csproj.CoreCompileInputs.cache
+C:\Users\Planning\Documents\BTD6 Mod Sources\SuperSoliderExperiment\obj\Debug\SuperSoliderExperiment.dll
+C:\Users\Planning\Documents\BTD6 Mod Sources\SuperSoliderExperiment\obj\Debug\refint\SuperSoliderExperiment.dll
+C:\Users\Planning\Documents\BTD6 Mod Sources\SuperSoliderExperiment\obj\Debug\ref\SuperSoliderExperiment.dll
