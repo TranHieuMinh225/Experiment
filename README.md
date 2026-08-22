@@ -1,6 +1,5 @@
 # Experiment
 A Dart Monkey, or is it?
-# Experiment
 
 A custom BTD6 Military tower created with BTD6 Mod Helper.
 
